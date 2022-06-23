@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "deffffe8-dc5b-42f4-beb0-94920fda7712": {
+      "ProjectGuid": "deffffe8-dc5b-42f4-beb0-94920fda7712",
+      "DisplayName": "GalaxyTraining.Sales.Domain",
+      "ColorIndex": 0
+    },
+    "8ec55ca3-d78d-4112-b651-edba549d660e": {
+      "ProjectGuid": "8ec55ca3-d78d-4112-b651-edba549d660e",
+      "DisplayName": "GalaxyTraining.Sales.Persistence",
+      "ColorIndex": 1
+    },
+    "f06a236e-e5c1-48e5-89f1-91b40fd8fff6": {
+      "ProjectGuid": "f06a236e-e5c1-48e5-89f1-91b40fd8fff6",
+      "DisplayName": "GalaxyTraining.Sales.Application",
+      "ColorIndex": 2
+    },
+    "da5f5958-edf9-4654-8e8b-b5763951babf": {
+      "ProjectGuid": "da5f5958-edf9-4654-8e8b-b5763951babf",
+      "DisplayName": "GalaxyTraining.Sales.Presentation",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f4074f53-2bf8-49a5-a537-1afbb7ba8569": {
+      "ProjectGuid": "f4074f53-2bf8-49a5-a537-1afbb7ba8569",
+      "DisplayName": "GalaxyTraining.Sales.Specification",
+      "ColorIndex": 4
+    },
+    "d7ce4d23-9d31-4d46-a250-2a6fa76e6cea": {
+      "ProjectGuid": "d7ce4d23-9d31-4d46-a250-2a6fa76e6cea",
+      "DisplayName": "GalaxyTraining.Sales.Common",
+      "ColorIndex": 5
+    },
+    "1134a2e4-c112-46ec-9618-049d70960341": {
+      "ProjectGuid": "1134a2e4-c112-46ec-9618-049d70960341",
+      "DisplayName": "GalaxyTraining.Sales.Infrastructure",
+      "ColorIndex": 6
+    },
+    "9869c64f-344e-4c8c-b651-74972facc8bd": {
+      "ProjectGuid": "9869c64f-344e-4c8c-b651-74972facc8bd",
+      "DisplayName": "GalaxyTraining.Sales.Service",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

@@ -1,0 +1,42 @@
+﻿@model GalaxyTraining.Sales.Application.Sales.Queries.GetSaleDetail.SaleDetailModel
+
+@{
+    ViewBag.Title = "Sale";
+}
+
+<h2>Detalle de Venta</h2>
+<table>
+    <tr>
+        <th>ID</th>
+        <td>@Model.Id</td>
+    </tr>
+    <tr>
+        <th>Fecha</th>
+        <td>@Model.Date.ToString("d")</td>
+    </tr>
+    <tr>
+        <th>Cliente</th>
+        <td>@Model.CustomerName</td>
+    </tr>
+    <tr>
+        <th>Empleado</th>
+        <td>@Model.EmployeeName</td>
+    </tr>
+    <tr>
+        <th>Producto</th>
+        <td>@Model.ProductName</td>
+    </tr>
+    <tr>
+        <th>Precio</th>
+        <td>S/. @Model.UnitPrice</td>
+    </tr>
+    <tr>
+        <th>Cantidad</th>
+        <td>@Model.Quantity</td>
+    </tr>
+    <tr>
+        <th>Total</th>
+        <td>S/. @Model.TotalPrice</td>
+    </tr>
+</table>
+

@@ -1,0 +1,667 @@
+﻿++Solution 'CleanArchitecture' ‎(8 of 8 projects)
+++Persistence
+++Properties
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:c:\users\herna\documents\curso\clean arquitectura\source\persistence\properties\
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:c:\users\herna\documents\curso\clean arquitectura\source\domain\properties\
+i:{1134a2e4-c112-46ec-9618-049d70960341}:c:\users\herna\documents\curso\clean arquitectura\source\infrastructure\properties\
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:c:\users\herna\documents\curso\clean arquitectura\source\common\properties\
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\properties\
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\properties\
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\properties\
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\properties\
+++AssemblyInfo.cs
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:c:\users\herna\documents\curso\clean arquitectura\source\persistence\properties\assemblyinfo.cs
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:c:\users\herna\documents\curso\clean arquitectura\source\domain\properties\assemblyinfo.cs
+i:{1134a2e4-c112-46ec-9618-049d70960341}:c:\users\herna\documents\curso\clean arquitectura\source\infrastructure\properties\assemblyinfo.cs
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:c:\users\herna\documents\curso\clean arquitectura\source\common\properties\assemblyinfo.cs
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\properties\assemblyinfo.cs
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\properties\assemblyinfo.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\properties\assemblyinfo.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\properties\assemblyinfo.cs
+++References
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++Application
+++AutoMoq
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++Common
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:c:\users\herna\documents\curso\clean arquitectura\source\domain\common\
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\common\
+++Domain
+++EntityFramework
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++EntityFramework.SqlServer
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++Microsoft.CSharp
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++Microsoft.Practices.ServiceLocation
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++Microsoft.Practices.Unity
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++Microsoft.Practices.Unity.Configuration
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++Microsoft.Practices.Unity.Interception
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++Microsoft.Practices.Unity.Interception.Configuration
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++Moq
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++nunit.framework
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++StructureMap
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++StructureMap.Net4
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++StructureMap.Web
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+++System
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++System.ComponentModel.DataAnnotations
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++System.Core
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++System.Data
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++System.Data.DataSetExtensions
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++System.Xml
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++System.Xml.Linq
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++Customers
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:c:\users\herna\documents\curso\clean arquitectura\source\persistence\customers\
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:c:\users\herna\documents\curso\clean arquitectura\source\domain\customers\
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\customers\
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\customers\
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\customers\
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\customers\
+++CustomerConfiguration.cs
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:c:\users\herna\documents\curso\clean arquitectura\source\persistence\customers\customerconfiguration.cs
+++Employees
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:c:\users\herna\documents\curso\clean arquitectura\source\persistence\employees\
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:c:\users\herna\documents\curso\clean arquitectura\source\domain\employees\
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\employees\
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\employees\
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\employees\
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\employees\
+++EmployeeConfiguration.cs
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:c:\users\herna\documents\curso\clean arquitectura\source\persistence\employees\employeeconfiguration.cs
+++Products
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:c:\users\herna\documents\curso\clean arquitectura\source\persistence\products\
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:c:\users\herna\documents\curso\clean arquitectura\source\domain\products\
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\products\
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\products\
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\products\
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\products\
+++ProductConfiguration.cs
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:c:\users\herna\documents\curso\clean arquitectura\source\persistence\products\productconfiguration.cs
+++Sales
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:c:\users\herna\documents\curso\clean arquitectura\source\persistence\sales\
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:c:\users\herna\documents\curso\clean arquitectura\source\domain\sales\
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\sales\
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\sales\
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\sales\
+++SaleConfiguration.cs
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:c:\users\herna\documents\curso\clean arquitectura\source\persistence\sales\saleconfiguration.cs
+++App.config
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:c:\users\herna\documents\curso\clean arquitectura\source\persistence\app.config
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\app.config
+++DatabaseInitializer.cs
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:c:\users\herna\documents\curso\clean arquitectura\source\persistence\databaseinitializer.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\common\databaseinitializer.cs
+++DatabaseService.cs
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:c:\users\herna\documents\curso\clean arquitectura\source\persistence\databaseservice.cs
+++packages.config
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:c:\users\herna\documents\curso\clean arquitectura\source\persistence\packages.config
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:c:\users\herna\documents\curso\clean arquitectura\source\domain\packages.config
+i:{1134a2e4-c112-46ec-9618-049d70960341}:c:\users\herna\documents\curso\clean arquitectura\source\infrastructure\packages.config
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:c:\users\herna\documents\curso\clean arquitectura\source\common\packages.config
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\packages.config
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\packages.config
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\packages.config
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\packages.config
+++IEntity.cs
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:c:\users\herna\documents\curso\clean arquitectura\source\domain\common\ientity.cs
+++Sale.cs
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:c:\users\herna\documents\curso\clean arquitectura\source\domain\sales\sale.cs
+++SaleTests.cs
+++Customer.cs
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:c:\users\herna\documents\curso\clean arquitectura\source\domain\customers\customer.cs
+++CustomerTests.cs
+++Employee.cs
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:c:\users\herna\documents\curso\clean arquitectura\source\domain\employees\employee.cs
+++EmployeeTests.cs
+++Product.cs
+i:{deffffe8-dc5b-42f4-beb0-94920fda7712}:c:\users\herna\documents\curso\clean arquitectura\source\domain\products\product.cs
+++ProductTests.cs
+++Infrastructure
+++Inventory
+i:{1134a2e4-c112-46ec-9618-049d70960341}:c:\users\herna\documents\curso\clean arquitectura\source\infrastructure\inventory\
+++InventoryService.cs
+i:{1134a2e4-c112-46ec-9618-049d70960341}:c:\users\herna\documents\curso\clean arquitectura\source\infrastructure\inventory\inventoryservice.cs
+++Network
+i:{1134a2e4-c112-46ec-9618-049d70960341}:c:\users\herna\documents\curso\clean arquitectura\source\infrastructure\network\
+++app.config
+i:{1134a2e4-c112-46ec-9618-049d70960341}:c:\users\herna\documents\curso\clean arquitectura\source\infrastructure\app.config
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\app.config
+++IWebClientWrapper.cs
+i:{1134a2e4-c112-46ec-9618-049d70960341}:c:\users\herna\documents\curso\clean arquitectura\source\infrastructure\network\iwebclientwrapper.cs
+++WebClientWrapper.cs
+i:{1134a2e4-c112-46ec-9618-049d70960341}:c:\users\herna\documents\curso\clean arquitectura\source\infrastructure\network\webclientwrapper.cs
+++Dates
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:c:\users\herna\documents\curso\clean arquitectura\source\common\dates\
+++DateService.cs
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:c:\users\herna\documents\curso\clean arquitectura\source\common\dates\dateservice.cs
+++IDateService.cs
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:c:\users\herna\documents\curso\clean arquitectura\source\common\dates\idateservice.cs
+++Mocks
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:c:\users\herna\documents\curso\clean arquitectura\source\common\mocks\
+++MockDbSetExtensions.cs
+i:{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}:c:\users\herna\documents\curso\clean arquitectura\source\common\mocks\mockdbsetextensions.cs
+++Service
+++App_Start
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\app_start\
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\app_start\
+++DependencyResolution
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\dependencyresolution\
+++Global.asax
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\global.asax
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\global.asax
+++Web.config
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\web.config
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\web.config
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+++Microsoft.Web.Infrastructure
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+++Newtonsoft.Json
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+++System.Configuration
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+++System.Drawing
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+++System.EnterpriseServices
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+++System.Net.Http
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++System.Net.Http.Formatting
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+++System.Web
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+++System.Web.ApplicationServices
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+++System.Web.DynamicData
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+++System.Web.Entity
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+++System.Web.Extensions
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+++System.Web.Helpers
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+++System.Web.Http
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+++System.Web.Http.WebHost
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+++System.Web.Mvc
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+++System.Web.Razor
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+++System.Web.Services
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+++System.Web.Webpages
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+++System.Web.Webpages.Deployment
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+++System.Web.Webpages.Razor
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+++WebActivatorEx
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+++RouteConfig.cs
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\app_start\routeconfig.cs
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\app_start\routeconfig.cs
+++StructuremapMvc.cs
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\app_start\structuremapmvc.cs
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\app_start\structuremapmvc.cs
+++StructuremapWebApi.cs
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\app_start\structuremapwebapi.cs
+++WebApiConfig.cs
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\app_start\webapiconfig.cs
+++CustomersController.cs
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\customers\customerscontroller.cs
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\customers\customerscontroller.cs
+++CustomersControllerTests.cs
+++DefaultRegistry.cs
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\dependencyresolution\defaultregistry.cs
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\dependencies\defaultregistry.cs
+++IoC.cs
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\dependencyresolution\ioc.cs
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\dependencies\ioc.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\common\ioc.cs
+++StructureMapDependencyScope.cs
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\dependencyresolution\structuremapdependencyscope.cs
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\dependencies\structuremapdependencyscope.cs
+++StructureMapScopeModule.cs
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\dependencyresolution\structuremapscopemodule.cs
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\dependencies\structuremapscopemodule.cs
+++StructureMapWebApiDependencyResolver.cs
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\dependencyresolution\structuremapwebapidependencyresolver.cs
+++StructureMapWebApiDependencyScope.cs
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\dependencyresolution\structuremapwebapidependencyscope.cs
+++EmployeesController.cs
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\employees\employeescontroller.cs
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\employees\employeescontroller.cs
+++EmployeesControllerTests.cs
+++ProductsController.cs
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\products\productscontroller.cs
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\products\productscontroller.cs
+++ProductsControllerTests.cs
+++SalesController.cs
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\sales\salescontroller.cs
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\sales\salescontroller.cs
+++SalesControllerTests.cs
+++Global.asax.cs
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\global.asax.cs
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\global.asax.cs
+++Web.Debug.config
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\web.debug.config
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\web.debug.config
+++Web.Release.config
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:c:\users\herna\documents\curso\clean arquitectura\source\service\web.release.config
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\web.release.config
+++Presentation
+++Content
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\content\
+++Models
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\customers\models\
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\products\models\
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\sales\models\
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\employees\models\
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\home\models\
+++Views
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\customers\views\
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\products\views\
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\sales\views\
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\shared\views\
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\employees\views\
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\home\views\
+++Dependencies
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\dependencies\
+++ControllerConvention.cs
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\dependencies\controllerconvention.cs
+++Home
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\home\
+++Index.cshtml
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\products\views\index.cshtml
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\customers\views\index.cshtml
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\sales\views\index.cshtml
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\employees\views\index.cshtml
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\home\views\index.cshtml
+++Services
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\sales\services\
+++Shared
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\shared\
+++_Layout.cshtml
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\shared\views\_layout.cshtml
+++Errors.cshtml
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\shared\views\errors.cshtml
+++_ViewStart.cshtml
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\_viewstart.cshtml
+++CustomRazorViewEngine.cs
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\customrazorviewengine.cs
+++bootstrap.css
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\content\bootstrap.css
+++bootstrap.min.css
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\content\bootstrap.min.css
+++Site.css
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\content\site.css
+++HomeController.cs
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\home\homecontroller.cs
+++HomeControllerTests.cs
+++CreateSaleViewModel.cs
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\sales\models\createsaleviewmodel.cs
+++CreateSaleViewModelFactory.cs
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\sales\services\createsaleviewmodelfactory.cs
+++CreateSaleViewModelFactoryTests.cs
+++ICreateSaleViewModelFactory.cs
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\sales\services\icreatesaleviewmodelfactory.cs
+++Create.cshtml
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\sales\views\create.cshtml
+++Detail.cshtml
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:c:\users\herna\documents\curso\clean arquitectura\source\presentation\sales\views\detail.cshtml
+++Commands
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\customers\commands\
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\products\commands\
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\commands\
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\employees\commands\
+++Queries
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\customers\queries\
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\products\queries\
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\queries\
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\employees\queries\
+++GetCustomerList
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\customers\queries\getcustomerlist\
+++CustomerModel.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\customers\queries\getcustomerlist\customermodel.cs
+++GetCustomersListQuery.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\customers\queries\getcustomerlist\getcustomerslistquery.cs
+++GetCustomersListQueryTests.cs
+++IGetCustomersListQuery.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\customers\queries\getcustomerlist\igetcustomerslistquery.cs
+++Interfaces
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\interfaces\
+++IDatabaseService.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\interfaces\idatabaseservice.cs
+++IInventoryService.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\interfaces\iinventoryservice.cs
+++GetProductsList
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\products\queries\getproductslist\
+++GetProductsListQuery.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\products\queries\getproductslist\getproductslistquery.cs
+++GetProductsListQueryTests.cs
+++IGetProductsListQuery.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\products\queries\getproductslist\igetproductslistquery.cs
+++ProductModel.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\products\queries\getproductslist\productmodel.cs
+++CreateSale
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\commands\createsale\
+++Factory
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\commands\createsale\factory\
+++ISaleFactory.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\commands\createsale\factory\isalefactory.cs
+++SaleFactory.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\commands\createsale\factory\salefactory.cs
+++SaleFactoryTests.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\commands\createsale\factory\salefactorytests.cs
+++CreateSaleCommand.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\commands\createsale\createsalecommand.cs
+++CreateSaleCommandTests.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\commands\createsale\createsalecommandtests.cs
+++CreateSaleModel.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\commands\createsale\createsalemodel.cs
+++ICreateSaleCommand.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\commands\createsale\icreatesalecommand.cs
+++GetSaleDetail
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\queries\getsaledetail\
+++GetSalesList
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\queries\getsaleslist\
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\sales\getsaleslist\
+++GetSaleDetailQuery.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\queries\getsaledetail\getsaledetailquery.cs
+++GetSaleDetailQueryTests.cs
+++IGetSaleDetailQuery.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\queries\getsaledetail\igetsaledetailquery.cs
+++SaleDetailModel.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\queries\getsaledetail\saledetailmodel.cs
+++GetSalesListQuery.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\queries\getsaleslist\getsaleslistquery.cs
+++GetSalesListQueryTests.cs
+++IGetSalesListQuery.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\queries\getsaleslist\igetsaleslistquery.cs
+++SalesListItemModel.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\sales\queries\getsaleslist\saleslistitemmodel.cs
+++GetEmployeesList
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\employees\queries\getemployeeslist\
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\employees\getemployeeslist\
+++EmployeeModel.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\employees\queries\getemployeeslist\employeemodel.cs
+++GetEmployeesListQueryTests.cs
+++GetEmployeesQuery.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\employees\queries\getemployeeslist\getemployeesquery.cs
+++IGetEmployeesListQuery.cs
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:c:\users\herna\documents\curso\clean arquitectura\source\application\employees\queries\getemployeeslist\igetemployeeslistquery.cs
+++Specification
+++License.txt
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\license.txt
+++TechTalk.SpecFlow
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++AppContext.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\common\appcontext.cs
+++DatabaseLookup.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\common\databaselookup.cs
+++InMemoryDbSet.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\common\inmemorydbset.cs
+++GetCustomersList
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\customers\getcustomerslist\
+++GetProductsList.feature
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\products\getproductslist.feature
+++GetProductsListSteps.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\products\getproductsliststeps.cs
+++CreateASale
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\sales\createasale\
+++GetSaleDetails
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\sales\getsaledetails\
+++GetCustomersList.feature
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\customers\getcustomerslist\getcustomerslist.feature
+++GetCustomersListSteps.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\customers\getcustomerslist\getcustomersliststeps.cs
+++GetEmployeesList.feature
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\employees\getemployeeslist\getemployeeslist.feature
+++GetEmployeesListSteps.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\employees\getemployeeslist\getemployeesliststeps.cs
+++GetProductsList.feature.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\products\getproductslist.feature.cs
+++CreateASale.feature
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\sales\createasale\createasale.feature
+++CreateASaleSteps.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\sales\createasale\createasalesteps.cs
+++CreateSaleInfoModel.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\sales\createasale\createsaleinfomodel.cs
+++CreateSaleOccurredNotificationModel.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\sales\createasale\createsaleoccurrednotificationmodel.cs
+++CreateSaleRecordModel.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\sales\createasale\createsalerecordmodel.cs
+++GetSaleDetails.feature
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\sales\getsaledetails\getsaledetails.feature
+++GetSaleDetailsModel.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\sales\getsaledetails\getsaledetailsmodel.cs
+++GetSaleDetailsSteps.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\sales\getsaledetails\getsaledetailssteps.cs
+++GetSalesList.feature
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\sales\getsaleslist\getsaleslist.feature
+++GetSalesListModel.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\sales\getsaleslist\getsaleslistmodel.cs
+++GetSalesListSteps.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\sales\getsaleslist\getsalesliststeps.cs
+++GetCustomersList.feature.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\customers\getcustomerslist\getcustomerslist.feature.cs
+++GetEmployeesList.feature.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\employees\getemployeeslist\getemployeeslist.feature.cs
+++CreateASale.feature.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\sales\createasale\createasale.feature.cs
+++GetSaleDetails.feature.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\sales\getsaledetails\getsaledetails.feature.cs
+++GetSalesList.feature.cs
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:c:\users\herna\documents\curso\clean arquitectura\source\specification\sales\getsaleslist\getsaleslist.feature.cs
+++Solution 'GalaxyTraining.Sales' ‎(8 of 8 projects)
+i:{00000000-0000-0000-0000-000000000000}:GalaxyTraining.Sales.sln
+++Galaxy.Traninig.Presentation
+++Galaxy.Training.Application
+++Galaxy.Training.Domain
+++Galaxy.SalesCommon
+++GalaxyTraining.Sales.Common
+i:{00000000-0000-0000-0000-000000000000}:GalaxyTraining.Sales.Common
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+++GalaxyTraining.Sales.Presentation
+i:{00000000-0000-0000-0000-000000000000}:GalaxyTraining.Sales.Presentation
+++GalaxyTraining.Sales.Domain
+i:{00000000-0000-0000-0000-000000000000}:GalaxyTraining.Sales.Domain
+i:{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}:
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+++GalaxyTraining.Sales.Application
+i:{00000000-0000-0000-0000-000000000000}:GalaxyTraining.Sales.Application
+i:{8ec55ca3-d78d-4112-b651-edba549d660e}:
+i:{1134a2e4-c112-46ec-9618-049d70960341}:
+i:{f4074f53-2bf8-49a5-a537-1afbb7ba8569}:
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+++GalaxyTraining.Sales.Infrastructure
+i:{00000000-0000-0000-0000-000000000000}:GalaxyTraining.Sales.Infrastructure
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+++GalaxyTraining.Sales.Persistence
+i:{00000000-0000-0000-0000-000000000000}:GalaxyTraining.Sales.Persistence
+i:{da5f5958-edf9-4654-8e8b-b5763951babf}:
+i:{9869c64f-344e-4c8c-b651-74972facc8bd}:
+++GalaxyTraining.Sales.Service
+i:{00000000-0000-0000-0000-000000000000}:GalaxyTraining.Sales.Service
+++GalaxyTraining.Sales.Specification
+i:{00000000-0000-0000-0000-000000000000}:GalaxyTraining.Sales.Specification

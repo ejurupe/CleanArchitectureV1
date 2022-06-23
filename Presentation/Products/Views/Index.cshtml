@@ -1,0 +1,26 @@
+﻿@model IEnumerable<GalaxyTraining.Sales.Application.Products.Queries.GetProductsList.ProductModel>
+
+@{
+    ViewBag.Title = "Products";
+}
+
+<h2>Products</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Precio</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var products in Model)
+        {
+            <tr>
+                <td>@products.Id</td>
+                <td>@products.Name</td>
+                <td>S/. @products.UnitPrice</td>
+            </tr>
+        }
+    </tbody>
+</table>

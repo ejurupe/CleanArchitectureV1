@@ -1,0 +1,40 @@
+﻿@model IEnumerable<GalaxyTraining.Sales.Application.Sales.Queries.GetSalesList.SalesListItemModel>
+
+@{
+    ViewBag.Title = "Sales";
+}
+
+<h2>Ventas</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Fecha</th>
+            <th>Cliente</th>
+            <th>Empleado</th>
+            <th>Producto</th>
+            <th>Precio</th>
+            <th>Cantidad</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var sale in Model)
+        {
+            <tr>
+                <td><a href="sales/@sale.Id">@sale.Id</a></td>
+                <td>@sale.Date.ToString("d")</td>
+                <td>@sale.CustomerName</td>
+                <td>@sale.EmployeeName</td>
+                <td>@sale.ProductName</td>
+                <td>S/. @sale.UnitPrice</td>
+                <td>@sale.Quantity</td>
+                <td>S/. @sale.TotalPrice</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div class="pull-right">
+    <a class="btn btn-primary" href="sales/create">Agregar registro</a>
+</div>
+
