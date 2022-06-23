@@ -86,11 +86,11 @@
     <Compile Include="Network\WebClientWrapper.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Application\GalaxyTraining.Sales.Application.csproj">
+    <ProjectReference Include="..\GalaxyTraining.Sales.Application\GalaxyTraining.Sales.Application.csproj">
       <Project>{f06a236e-e5c1-48e5-89f1-91b40fd8fff6}</Project>
       <Name>GalaxyTraining.Sales.Application</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Common\GalaxyTraining.Sales.Common.csproj">
+    <ProjectReference Include="..\GalaxyTraining.Sales.Common\GalaxyTraining.Sales.Common.csproj">
       <Project>{d7ce4d23-9d31-4d46-a250-2a6fa76e6cea}</Project>
       <Name>GalaxyTraining.Sales.Common</Name>
     </ProjectReference>
